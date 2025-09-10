@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1757536684540" clover="3.2.0">
-  <project timestamp="1757536684540" name="All files">
+<coverage generated="1757540134713" clover="3.2.0">
+  <project timestamp="1757540134713" name="All files">
     <metrics statements="20" coveredstatements="20" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1" elements="51" coveredelements="51" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
     <file name="tarea6.ts" path="D:\Backup\Escritorio\Universidad\Quinto año\Segundo Semestre\Aseguramiento de la calidad del software\tarea6-unittest\src\domain\tarea6.ts">
       <metrics statements="20" coveredstatements="20" conditionals="30" coveredconditionals="30" methods="1" coveredmethods="1"/>
